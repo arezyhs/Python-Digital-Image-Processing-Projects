@@ -9,7 +9,7 @@ Boiangiu, C.-A., Dinu, O.-A., Popescu, C., Constantin, N., & Petrescu, C. (2020)
 Applied Sciences, 10(7), 2236.  
 
 **Dataset Uji**:  
-📂 [Kaggle - rdocuments](https://www.kaggle.com/datasets/) *(sekitar 950 gambar dokumen dengan variasi kemiringan)*  
+📂 [Kaggle - rdocuments](https://www.kaggle.com/datasets/vishnunkumar/rdocuments) *(sekitar 950 gambar dokumen dengan variasi kemiringan)*  
 Repo ini berisi implementasi Python untuk mendeteksi dan mengoreksi kemiringan gambar (deskewing) menggunakan tiga metode berbeda: Analisis FFT, Projection Profiling, dan Hough Transform. Program ini dijalankan di Google Colab dan cocok untuk pemrosesan dokumen yang mengalami kemiringan saat discan/difoto.
 
 ## Fitur Utama
